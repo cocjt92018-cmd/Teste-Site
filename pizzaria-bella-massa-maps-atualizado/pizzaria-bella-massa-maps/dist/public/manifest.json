@@ -1,0 +1,11 @@
+{
+  "name": "Pizzaria Bella Massa — demonstração segura",
+  "short_name": "Bella Massa",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#fff8ef",
+  "theme_color": "#a61b25",
+  "description": "Cardápio demonstrativo da Pizzaria Bella Massa com pizzas artesanais, bebidas e combos.",
+  "icons": [{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
